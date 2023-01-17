@@ -1,0 +1,100 @@
+@font-face {
+  font-family: carbon;
+  src: url(../assist/fonts/CARBON-DROID.ttf); }
+
+@font-face {
+  font-family: sunday;
+  src: url(../assist/fonts/SUNDAY.ttf); }
+
+body {
+  height: 150vh;
+  width: 100%;
+  background-color: #1d1a2f; }
+
+.body_pag {
+  height: 120vh;
+  width: 100%;
+  background-color: #1d1a2f; }
+
+#header #titulo {
+  background-image: url(../assist/images/background.jpg);
+  background-position: center;
+  height: 150px;
+  font-family: carbon;
+  color: #965FD4; }
+
+
+#header .menu {
+  background-image: linear-gradient(to left top, #734f9a, #5a427f, #433563, #2f2749, #1d1a2f);}
+  #header .menu .menu_item {
+    font-family: sunday;
+    font-size: 1.35rem; }
+  #header .menu .animation {
+    transition: 0.5s all linear; }
+  #header .menu .animation:hover {
+    transform: scale(1.25);
+    transition: 0.5s all linear; }
+
+#header .titulo_pag {
+  background-image: url(../assist/images/background.jpg);
+  background-position: center;
+  height: 150px;
+  font-family: sunday;
+  color: #8BD450; }
+
+#main {
+  background-color: #1d1a2f;
+  color: #8BD450; }
+  #main .referencia {
+    background-image: linear-gradient(to right top, #1d1a2f, #532750, #952d58, #cd4046, #eb7012);
+    color: white; }
+
+.main_dise {
+  background-color: #1d1a2f; }
+  .main_dise .bordes {
+    color: white;
+    border: 2px solid #965FD4 !important;
+    background-image: linear-gradient(to right top, #1d1a2f, #532750, #952d58, #cd4046, #eb7012); }
+  .main_dise .bg_carousel {
+    background-color: whitesmoke; }
+    .main_dise .bg_carousel .img_carousel {
+      height: 200px; }
+  .main_dise .img_card {
+    height: 150px; }
+
+.main_contacto {
+  color: #8BD450; }
+  .filtros{
+    padding-right: 2rem;
+    border: #734F9A solid 2px;
+  }
+  .main_contacto .img_contacto {
+    height: 275px; }
+  .main_contacto .mapa_cont {
+    height: 250px;
+    width: 500px; }
+  .main_contacto .carta_nos {
+    background-image: linear-gradient(to right top, #1d1a2f, #532750, #952d58, #cd4046, #eb7012);
+    color: white; }
+    .main_contacto .carta_nos .boton_card {
+      text-decoration: none;
+      color: #8BD450; }
+    .main_contacto .carta_nos .description {
+      height: 200px; }
+
+.boton_cont {
+  color: #8BD450;
+  background-color: #734F9A; }
+
+.footer {
+  background-image: linear-gradient(to right top, #1d1a2f, #342c56, #503d7f, #714ea9, #965fd4);
+  color: #8BD450;
+  font-family: sunday; }
+  .footer .animation {
+    transition: 0.5s all linear; }
+  .footer .animation:hover {
+    transform: scale(1.25);
+    transition: 0.5s all linear; }
+  .footer .footer_link {
+    text-decoration: none;
+    color: black; }

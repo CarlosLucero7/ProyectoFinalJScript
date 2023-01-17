@@ -1,0 +1,41 @@
+[
+    {"nombre": "Dodge_Challenger", "precio": 950, "stock":30, "material":"Resina", "categoria":"Figura"},
+    {"nombre": "Ferrari_Enzo", "precio": 950, "stock":40, "material":"Resina", "categoria":"Figura"},
+    {"nombre": "Ford_GT", "precio": 950, "stock":25, "material":"Resina", "categoria":"Figura"},
+    {"nombre": "Ford_Mustang", "precio": 950, "stock":50, "material":"Resina", "categoria":"Figura"},
+    {"nombre": "Lamborghini_Aventador", "precio": 950, "stock":40, "material":"Resina", "categoria":"Figura"},
+    {"nombre": "Nissan_GTR", "precio": 950, "stock":30, "material":"Resina", "categoria":"Figura"},
+    {"nombre": "Toyota_Supra", "precio": 950, "stock":50, "material":"Resina", "categoria":"Figura"},
+
+
+
+        {"nombre": "Pokemon", "precio": 500, "stock":50, "material":"PLA", "categoria":"Figura"},
+        {"nombre": "Doom", "precio": 750, "stock":20, "material":"Resina", "categoria":"Figura"},
+        {"nombre": "Robocop", "precio": 1250, "stock":25, "material":"PLA", "categoria":"Figura"},
+
+    
+
+       {"nombre": "llav_Ford", "precio": 350, "stock":50, "material":"ABS", "categoria":"Llavero"},
+       {"nombre": "llav_Honda", "precio": 350, "stock":50, "material":"ABS", "categoria":"Llavero"},
+       {"nombre": "llav_Jeep", "precio": 350, "stock":50, "material":"ABS", "categoria":"Llavero"},
+       {"nombre": "llav_Peug", "precio": 350, "stock":50, "material":"ABS", "categoria":"Llavero"},
+       {"nombre": "llav_Toy", "precio": 350, "stock":50, "material":"ABS", "categoria":"Llavero"},
+       {"nombre": "starwars", "precio": 300, "stock":30, "material":"PLA", "categoria":"Llavero"},
+       {"nombre": "metallica", "precio": 200, "stock":30, "material":"PLA", "categoria":"Llavero"},
+       {"nombre": "thor", "precio": 300, "stock":20, "material":"PLA", "categoria":"Llavero"},
+    
+
+    
+        {"nombre": "Messi", "precio": 1200, "stock":50, "material":"ABS", "categoria":"Mate"},
+        {"nombre": "Piston", "precio": 800, "stock":20, "material":"ABS", "categoria":"Mate"},
+        {"nombre": "Unicornio", "precio": 1000, "stock":30, "material":"ABS", "categoria":"Mate"},
+        {"nombre": "Yoda", "precio": 1000, "stock":30, "material":"ABS", "categoria":"Mate"},
+    
+    
+    
+        {"nombre": "sop_corazon", "precio": 500, "stock":20, "material":"PLA", "categoria":"Soporte"},
+        {"nombre": "sop_horde", "precio": 500, "stock":20, "material":"PLA", "categoria":"Soporte"},
+        {"nombre": "sop_note", "precio": 1500, "stock":50, "material":"PLA", "categoria":"Soporte"},
+        {"nombre": "sop_PS", "precio": 700, "stock":25, "material":"PLA", "categoria":"Soporte"}
+    
+]
